@@ -3,13 +3,16 @@
  * see commented examples below
  */
 
-// import 'some-node-module';
+import "../styles/main.scss";
+import "bootstrap";
+
 // import SomeModule from 'some-node-module';
 
 /**
  * Write any other JavaScript below
  */
 
-+( function() {
++
+(function () {
   console.log('Hello, UOC!');
-} )();
+})();

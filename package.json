@@ -1,8 +1,8 @@
 {
-  "name": "uoc-boilerplate",
-  "version": "2.4.0",
+  "name": "PEC1",
+  "version": "0.1.0",
   "private": true,
-  "description": "Boilerplate for Advanced HTML/CSS Tools UOC students",
+  "description": "PEC1 of the course HTML & CSS Tools II, from the Universitat Oberta de Catalunya UOC ",
   "scripts": {
     "parcel:dev": "parcel src/index.html -p 8123 --open",
     "parcel:build": "parcel build src/index.html --public-url ./ --out-dir dist --no-source-maps --no-cache",
@@ -16,14 +16,11 @@
     "url": "git+https://github.com/uoc-advanced-html-css/uoc-boilerplate.git"
   },
   "author": {
-    "name": "Jordi Tarrida",
-    "email": "jorditarrida@uoc.edu"
+    "name": "Carlos Valverde",
+    "email": "studio@carlos-valverde.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/uoc-advanced-html-css/uoc-boilerplate/issues"
-  },
-  "homepage": "https://github.com/uoc-advanced-html-css/uoc-boilerplate#readme",
+  "homepage": "https://github.com/karlosvalverde/PEC1",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",

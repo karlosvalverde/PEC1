@@ -44,9 +44,3 @@ Only edit files located in the `src/` folder. Always run the following commands 
 | `npm run build` | Compiles and minifies and optimizes the files in the assets folder. The generated compiled and optimized files are located in the `dist/` folder. This is what _must be run_ before publishing the project. The publishable files are the ones located in the `dist/` folder. |
 | `npm run clean` | Deletes the current `/dist` folder.                                                                                                                                                                                                                                           |
 | `npm run test`  | Displays a success message if everything is working as expected.                                                                                                                                                                                                              |
-
-## Need help? / Want to help out?
-
-Feel free to create a [new issue](https://github.com/uoc-advanced-html-css/uoc-boilerplate/issues/new/) or drop me a line at jorditarrida@uoc.edu.
-
-Are you using this Boilerplate for your projects or for educational purposes? I would love to hear about it!

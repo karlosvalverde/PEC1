@@ -3,8 +3,12 @@
  * see commented examples below
  */
 
-import "../styles/main.scss";
+import Vue from "vue";
+import router from "./routes";
+import App from "./App.vue";
+
 import "bootstrap";
+import "../styles/main.scss";
 
 // import SomeModule from 'some-node-module';
 
@@ -12,7 +16,13 @@ import "bootstrap";
  * Write any other JavaScript below
  */
 
-+
+new Vue({
+  el: "#app",
+  router,
+  render: (h) => h(App),
+});
+
+/* +
 (function () {
   console.log('Hello, UOC!');
-})();
+})(); */

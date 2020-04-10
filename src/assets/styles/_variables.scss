@@ -5,4 +5,7 @@
 
 $font-family-sans-serif: "Questrial", sans-serif;
 $font-family-serif: "Crimson Text", serif;
-$uoc-bg: color.scale($uoc-masterbrand, $lightness: 70%);
+
+$primary: #222;
+$seconday: #ffd83f;
+$bg: color.scale($seconday, $lightness: 0%);

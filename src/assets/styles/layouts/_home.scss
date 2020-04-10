@@ -38,3 +38,12 @@ a{
   line-height: -10em;
   letter-spacing: -2px;
 }
+
+.fade-enter-active, 
+.fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, 
+.fade-leave-to {
+  opacity: 0;
+}

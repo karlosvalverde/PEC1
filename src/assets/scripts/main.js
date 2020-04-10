@@ -21,8 +21,3 @@ new Vue({
   router,
   render: (h) => h(App),
 });
-
-/* +
-(function () {
-  console.log('Hello, UOC!');
-})(); */

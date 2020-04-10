@@ -6,11 +6,13 @@
 </template>
 
 <script>
-import MenuNav from "../components/Menu.vue";
+import MenuNav1 from "../components/Menu_1.vue";
+import MenuNav2 from "../components/Menu_2.vue";
 export default {
   name: "app",
   components: {
-    MenuNav,
+    MenuNav1,
+    MenuNav2,
   },
 };
 </script>

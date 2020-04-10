@@ -6,7 +6,7 @@ body {
   color: $primary;
 }
 
-a{
+a {
   color: $primary;
 }
 
@@ -39,11 +39,12 @@ a{
   letter-spacing: -2px;
 }
 
-.fade-enter-active, 
+.fade-enter-active,
 .fade-leave-active {
   transition: opacity .5s;
 }
-.fade-enter, 
+
+.fade-enter,
 .fade-leave-to {
   opacity: 0;
 }

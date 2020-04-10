@@ -1,6 +1,10 @@
 <template>
-  <div>
-    <h1>Carlos Valverde</h1>
+  <div class="serif">
+    <p class="text-center display-4">
+      <a href="https://studio.carlos-valverde.com" target="_blank">Multimedia designer</a>, 
+      <a href="https://github.com/karlosvalverde" target="_blank">Front-end Developer</a> and 
+      <a href="https://www.carlos-valverde.com/" target="_blank">Visual Artist</a>.
+    </p>
   </div>
 </template>
 
